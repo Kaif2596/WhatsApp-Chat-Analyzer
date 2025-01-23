@@ -1,7 +1,7 @@
 
 # WhatsApp Chat Analyzer - Python Based Web Application
 
-📋 Description
+## 📋 Description
 
 WhatsApp Chat Analyzer is a Python-based web application that provides insightful analysis of WhatsApp chat data. By parsing and visualizing chat patterns, it helps users gain a deeper understanding of individual and group dynamics.
 
